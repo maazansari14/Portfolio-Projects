@@ -5,6 +5,5 @@ In my portfolio, I am going to include many projects showcasing my skills in dif
 I have put my CV on my Github.
 
 My contact information is below: 
-Maaz Ansari
 maazans14@gmail.com
 https://www.linkedin.com/in/maazans14/
