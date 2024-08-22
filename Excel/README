@@ -1,1 +1,22 @@
+Letterboxd Profile Analysis
+
+Overview
+This project consists of an interactive Excel dashboard designed to visualize and analyze the key aspects of movie-watching history! It also includes insights into movies that I want to watch. There are various metrics such as genre preferences, trends over time, and rating distributions. Through the use of pivot tables, a variety of graphs, and slicers, I was able to dig deeper into my Letterboxd movie analytics.
+Goal: To dive deep into my movie-watching habits. What movies do I like? What genres do I prefer? Has my taste changed over time?
+
+Description: This project focuses on analyzing two different sets of data. The first set is a list of movies I’ve watched. It includes the date I watched the movie, the movie title, the year it was released, the letterboxd link, the rating I gave it, and the genre of the movie.
+
+Skills: Data analysis, data cleaning, data visualization, data mining.
+
+Technology: Microsoft Excel, Google Colab, Python, Pivot tables, Vlookup
+Sheets included: There is a watched sheet that includes the data for the movies I’ve seen. There is a watchlist sheet that includes the data for the movies I want to watch. Each of these sheets has a decade and genre sheet with pivot tables in each to figure out the relationships between different variables. There is a most viewed genres sheet that displays the list of genres from lowest to highest in terms of how much they appear on my watched list. Finally, there is a profile stats sheet that was used to generate some statistics about my Letterboxd account. Formulas to get data include COUNTA and AVERAGE.
+
+Getting Started
+1. Download the Excel file titled “Letterboxd Profile Analysis”
+2. Open the file through Microsoft Excel and access it via Excel.
+3. Use the slicers to filter data by genre, year, rating, or viewing date and analyze the pivot tables.
+
+
+Created by Maaz Ansari (https://www.linkedin.com/in/maazans14/) - feel free to reach out if you have any questions! Thank you for reading.
+
 
