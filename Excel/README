@@ -1,5 +1,7 @@
 Letterboxd Profile Analysis
 
+
+File: [Letterboxd Profile Analysis](Letterboxd Profile Analysis.xlsx)
 Overview
 This project consists of an interactive Excel dashboard designed to visualize and analyze the key aspects of movie-watching history! It also includes insights into movies that I want to watch. There are various metrics such as genre preferences, trends over time, and rating distributions. Through the use of pivot tables, a variety of graphs, and slicers, I was able to dig deeper into my Letterboxd movie analytics.
 Goal: To dive deep into my movie-watching habits. What movies do I like? What genres do I prefer? Has my taste changed over time?
