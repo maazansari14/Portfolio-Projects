@@ -7,10 +7,10 @@ I have put my CV on my Github.
 My contact information is below: 
 
 
-**Certificates**
+**Certificates:**
 Google Data Analytics Professional Certificate (May 2024) (Coursera - Google)
 https://www.coursera.org/account/accomplishments/specialization/M9TLUKVKMKJG
 
-**Contacts**
+**Contacts:**
 maazans14@gmail.com
 https://www.linkedin.com/in/maazans14/
