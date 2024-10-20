@@ -1,3 +1,2 @@
-This is a link to my San Francisco 2018 Crimes Analysis and Insights Dashboard.
-
-https://public.tableau.com/app/profile/maazans712/viz/SanFrancisco2018CrimesAnalysisandInsightsDashboard/SFDashboard
+This is a collaborative project for COOP. The city of San Francisco would like us to complete an analysis of crime patterns in the city. They received extra funding this year and want us to figure out the best ways they should spend this money to understand & reduce crime in the most vulnerable neighborhood
+This links to my San Francisco 2018 Crimes Analysis and Insights Dashboard: https://public.tableau.com/app/profile/maazans712/viz/SanFrancisco2018CrimesAnalysisandInsightsDashboard/SFDashboard
