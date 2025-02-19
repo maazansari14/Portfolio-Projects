@@ -1,3 +1,0 @@
-git add Letterboxd_Profile_Analysis.xlsx
-git commit -m "Updated Excel file with latest data"
-git push origin main  # (or your branch name)
