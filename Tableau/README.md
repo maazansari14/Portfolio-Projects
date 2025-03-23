@@ -7,5 +7,5 @@ More information: https://sites.google.com/view/maazansari/projects/san-francisc
 Expedia Travel
 My COOP capstone project focused on analyzing Expedia’s ad performance data across different age groups and countries using key KPIs like CTR, CPC, and CAC. The project examined audience engagement and cost trends, identifying the most effective demographics and regions for ad targeting. 
 This links to my Expedia Travel Dashboard: https://public.tableau.com/views/ExpediaTravelDashboard_17427627894800/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-More information: 
-https://sites.google.com/view/maazansari/projects/letterboxd-analysis?authuser=0
+
+More information: https://sites.google.com/view/maazansari/projects/letterboxd-analysis?authuser=0
